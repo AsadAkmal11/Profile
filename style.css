@@ -1,0 +1,23 @@
+body{
+    background-color: #000000;
+}
+
+body div h1{
+    color: aliceblue;
+    text-align: center;
+    position: relative;
+    top: 15px;
+}
+#link{
+    text-align: center;
+}
+a{
+    color: aliceblue;
+}
+img{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 80px;
+    height: 80px;
+}
